@@ -7,7 +7,6 @@ I am a full time student, and I work at a small design lab on my schools campus 
  - Mesh Networking
  - Embedded Systems
  - Rust
- - Kubernetes Administration
  
 I have pinned some projects I'm actively developing!
 <p align="center">
