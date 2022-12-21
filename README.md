@@ -15,7 +15,5 @@ I have pinned some projects I'm actively developing!
 
 #### Where else to find me:
  - [jacobmealey.xyz](https://www.jacobmealey.xyz)
- - [Linkedin](https://www.linkedin.com/in/jacobmealey)
- 
  - <a rel="me" href="https://mastodon.social/@jacobmealey">Mastodon</a>
  
