@@ -13,7 +13,3 @@ I have pinned some projects I'm actively developing!
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacobmealey&theme=default"/>
 </p>
 
-#### Where else to find me:
- - [jacobmealey.xyz](https://www.jacobmealey.xyz)
- - <a rel="me" href="https://mastodon.social/@jacobmealey">Mastodon</a>
- 
