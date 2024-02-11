@@ -1,15 +1,9 @@
 ## Welcome! 
 
 
-I am a full time student, and I work at a small design lab on my schools campus so I don't get at lot of time for personal projects, but here are some things I am currently reading about in my free time:
-
+I don't do much but below are some topics I find interesting and I've pinned some of my favorite projects I've worked on.
 
  - Mesh Networking
  - Embedded Systems
  - Rust
  
-I have pinned some projects I'm actively developing!
-<p align="center">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacobmealey&theme=default"/>
-</p>
-
