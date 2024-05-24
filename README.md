@@ -5,5 +5,5 @@ I don't do much but below are some topics I find interesting and I've pinned som
 
  - Mesh Networking
  - Embedded Systems
- - Rust
+ - Programming Languages and Compilers
  
